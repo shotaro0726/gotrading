@@ -1,0 +1,22 @@
+INFO  22:15:31.196 [main] (Pleiades) Pleiades キャッシュ保存パス: /Users/macuser/gotrading/jp.sourceforge.mergedoc.pleiades
+INFO  22:15:31.376 [main] (Pleiades) IDEA AOP 起動トランスフォーマーを開始します。Pleiades 起動オプション:null
+INFO  22:15:31.452 [pool-2-thread-1] (Applications) ファイル更新最終時刻 (前回): 2020-06-04 03:53:46
+INFO  22:15:31.452 [pool-2-thread-1] (Applications) ファイル更新最終時刻 (今回): 2020-06-04 03:53:46
+INFO  22:15:32.028 [main] (PleiadesConfig) Pleiades 構成ファイルをロードしました。pleiades-config-idea.xml
+INFO  22:15:32.181 [pool-1-thread-1] (LauncherIdeaTransformer) 追加クラスパスあり: /Applications/GoLand.app/Contents/plugins/IntelliLang/lib/IntelliLang.jar
+INFO  22:15:32.191 [pool-1-thread-1] (LauncherIdeaTransformer) 追加クラスパスなし: /Applications/GoLand.app/Contents/plugins/Kotlin/lib/kotlin-plugin.jar
+INFO  22:15:32.192 [pool-1-thread-1] (LauncherIdeaTransformer) 追加クラスパスなし: /Applications/GoLand.app/Contents/plugins/sdk-updates/lib/sdk-updates.jar
+INFO  22:15:32.193 [pool-1-thread-1] (LauncherIdeaTransformer) 追加クラスパスなし: /Applications/GoLand.app/Contents/plugins/tfsIntegration/lib/tfsIntegration.jar
+INFO  22:15:32.271 [main] (LauncherTransformer) Pleiades AOP 起動トランスフォーマーを停止します。
+INFO  22:15:32.275 [main] (LauncherTransformer) アプリケーションの起動を開始しました。-clean:false
+INFO  22:15:32.275 [main] (LauncherTransformer) Pleiades AOP 起動トランスフォーマーを停止します。
+INFO  22:15:32.282 [main] (LauncherTransformer) Pleiades AOP 翻訳トランスフォーマーを開始します。
+INFO  22:15:32.377 [pool-1-thread-1] (ExcludeClassNameCache) load   13146 エントリー exclude-class.list
+INFO  22:15:32.417 [pool-1-thread-1] (TransformedClassCache) load     114 エントリー transformed-class.cache
+INFO  22:22:08.668 [Thread-1] (TransformedClassCache) load     114 エントリー transformed-class.cache
+INFO  22:22:08.777 [Thread-1] (TransformedClassCache) store     119 エントリー transformed-class.cache
+INFO  22:22:08.868 [Thread-1] (ExcludeClassNameCache) load   13146 エントリー exclude-class.list
+INFO  22:22:08.965 [Thread-1] (ExcludeClassNameCache) store  14178 エントリー exclude-class.list
+INFO  22:22:08.965 [Thread-1] (CachePropertySet) ニーモニック変換キャッシュ・プロパティーの更新はありません。
+INFO  22:22:09.422 [Thread-1] (ValueHashPropertySet) store 0.428 秒 -   3456 エントリー translation-cache.properties.zip
+INFO  22:22:09.424 [Thread-1] (CachePropertySet) 翻訳キャッシュ・プロパティーを更新しました。
